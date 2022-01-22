@@ -6,6 +6,6 @@ PyCode > function.py is function file
 
 Program list all files from directory and merge all PDF files in new file
 
-![Screenshot](GUI.jpg)
+![Screenshot](https://github.com/keenbm/PDFmergerpy/blob/master/GUI.JPG)
 
 
