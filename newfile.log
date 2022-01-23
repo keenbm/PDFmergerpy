@@ -1,0 +1,17 @@
+2022-01-23 16:14:18,613 INFO Start of code Open GUI main Window
+2022-01-23 16:14:31,596 INFO Submit button Clicked
+2022-01-23 16:14:31,597 INFO Enter folder path is : C:\Users\Keen\Desktop\ABC
+2022-01-23 16:14:31,597 INFO Calling Get all file function
+2022-01-23 16:14:31,597 INFO get_all_files Function 
+2022-01-23 16:14:31,599 INFO Printing all file list
+2022-01-23 16:14:31,599 INFO Printing PDF file list
+2022-01-23 16:14:32,403 INFO PDF Merge Button Clicked
+2022-01-23 16:14:32,404 INFO Calling Get all file function
+2022-01-23 16:14:32,404 INFO Enter folder path is : C:\Users\Keen\Desktop\ABC
+2022-01-23 16:14:32,404 INFO get_all_files Function 
+2022-01-23 16:14:32,404 INFO Merge PDF function
+2022-01-23 16:14:32,411 INFO merge_pdf Function : Merging PDF
+2022-01-23 16:14:34,323 INFO New Merger PDF created with name :  01232022_161432_MergedFile.pdf
+2022-01-23 16:14:34,323 INFO get_all_files Function 
+2022-01-23 16:14:34,323 INFO Updating PDF list after Merging
+2022-01-23 16:14:35,692 INFO Clear Button Clicked

@@ -7,6 +7,7 @@ import datetime
 
 from PyCode.functions import merge_pdf
 from PyCode.functions import get_all_files
+
 import logging
 logging.basicConfig(filename="newfile.log",
                     format='%(asctime)s %(levelname)s %(message)s',
@@ -63,7 +64,9 @@ window.configure(background="#0e5c6e")
 window.geometry('900x600')
 
 # Adding title image
-title_img=PhotoImage(file="Title.png")
+
+#title_img=PhotoImage(file="Title.png") ## To be used when only running from GUICode.py file
+title_img=PhotoImage(file="GUI//Title.png")
 Label (window,image=title_img,bg="black").grid(row=0,column=0,sticky="w")
 
 # Create label for Enter path
