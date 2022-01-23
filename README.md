@@ -1,7 +1,7 @@
 # PDF Merge 
 
 ## MAIN.py will call GUICode.py file for loading GUI Window
-#### GUICode.py usese function written in function.py for listing filenames and merging PDF
+#### GUICode.py uses function written in function.py for listing filenames and merging PDF
 
 GUI > GUICode.py
 PyCode > function.py
