@@ -1,17 +1,21 @@
-2022-01-23 16:14:18,613 INFO Start of code Open GUI main Window
-2022-01-23 16:14:31,596 INFO Submit button Clicked
-2022-01-23 16:14:31,597 INFO Enter folder path is : C:\Users\Keen\Desktop\ABC
-2022-01-23 16:14:31,597 INFO Calling Get all file function
-2022-01-23 16:14:31,597 INFO get_all_files Function 
-2022-01-23 16:14:31,599 INFO Printing all file list
-2022-01-23 16:14:31,599 INFO Printing PDF file list
-2022-01-23 16:14:32,403 INFO PDF Merge Button Clicked
-2022-01-23 16:14:32,404 INFO Calling Get all file function
-2022-01-23 16:14:32,404 INFO Enter folder path is : C:\Users\Keen\Desktop\ABC
-2022-01-23 16:14:32,404 INFO get_all_files Function 
-2022-01-23 16:14:32,404 INFO Merge PDF function
-2022-01-23 16:14:32,411 INFO merge_pdf Function : Merging PDF
-2022-01-23 16:14:34,323 INFO New Merger PDF created with name :  01232022_161432_MergedFile.pdf
-2022-01-23 16:14:34,323 INFO get_all_files Function 
-2022-01-23 16:14:34,323 INFO Updating PDF list after Merging
-2022-01-23 16:14:35,692 INFO Clear Button Clicked
+2022-01-23 16:39:45,391 INFO Calling GUICode file 
+2022-01-23 16:39:45,400 INFO Enter into GUICode file
+2022-01-23 16:39:45,653 INFO Opening GUI Window
+2022-01-23 16:39:56,368 INFO Submit button Clicked
+2022-01-23 16:39:56,369 INFO Enter folder path is : C:\Users\Keen\Desktop\ABC
+2022-01-23 16:39:56,369 INFO Calling Get all file function
+2022-01-23 16:39:56,370 INFO get_all_files Function 
+2022-01-23 16:39:56,371 INFO Printing all file list
+2022-01-23 16:39:56,371 INFO Printing PDF file list
+2022-01-23 16:39:57,308 INFO PDF Merge Button Clicked
+2022-01-23 16:39:57,308 INFO Calling Get all file function
+2022-01-23 16:39:57,308 INFO Enter folder path is : C:\Users\Keen\Desktop\ABC
+2022-01-23 16:39:57,308 INFO get_all_files Function 
+2022-01-23 16:39:57,308 INFO Merge PDF function
+2022-01-23 16:39:57,315 INFO merge_pdf Function : Merging PDF
+2022-01-23 16:39:58,284 INFO New Merger PDF created with name :  01232022_163957_MergedFile.pdf
+2022-01-23 16:39:58,284 INFO get_all_files Function 
+2022-01-23 16:39:58,284 INFO Updating PDF list after Merging
+2022-01-23 16:39:59,582 INFO Clear Button Clicked
+2022-01-23 16:40:00,676 INFO Closed GUI Window
+2022-01-23 16:40:00,679 INFO Returned from file 

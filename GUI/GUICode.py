@@ -1,3 +1,9 @@
+import logging
+logger = logging.getLogger()
+log = logging.getLogger(__name__)
+
+logging.info("Entered into GUICode file")
+
 # Importing Libray
 from tkinter import *
 import os
@@ -8,17 +14,9 @@ import datetime
 from PyCode.functions import merge_pdf
 from PyCode.functions import get_all_files
 
-import logging
-logging.basicConfig(filename="newfile.log",
-                    format='%(asctime)s %(levelname)s %(message)s',
-                    filemode='w')
-logger = logging.getLogger()
 
-# Setting the threshold of logger to DEBUG
-logger.setLevel(logging.DEBUG)
 
 # GUI Functions
-
 def submit_click():
     logging.info("Submit button Clicked")
     pdf_file_output.delete(0.0, END)
@@ -107,5 +105,6 @@ clear_button.grid(row=5,column=3,sticky="w")
 
 
 ## Run GUI
-logging.info("Start of code Open GUI main Window")
+logging.info("Opening GUI Window")
 window.mainloop()
+logging.info("Closed GUI Window")
